@@ -2,7 +2,7 @@
 This app was created for purpose of learning C++ and Windows API for console.
 
 ## Description of application
-It is a simple space invaders game. You must destroy the enemy, and the more times you annihilate them, the game will be more difficult.
+It is a simple space invaders game. You must destroy the enemies, and the more times you annihilate them, the game will be more difficult.
 Your highscore is automatically saved in txt file.
 
 ## Getting started
